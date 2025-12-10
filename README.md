@@ -92,4 +92,9 @@ Database (PostgreSQL)
 
 ---
 
-## 🏗️ Architecture Overview
+## 🚧 Project Status
+
+- ✔ **Sprint 0 – Planning & Architecture**
+- ⬜ **Sprint 1 – Core Features & Initial Deployment**
+- ⬜ **Sprint 2 – Optimization Engine & Analytics**
+- ⬜ **Final Demo – Cloud Deployed System**
