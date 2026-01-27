@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite3
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+
+# Android
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Logs
+*.log
+
+# Alembic
+backend/alembic/versions/*.pyc
+
+# Misc
+.DS_Store
+*.swp
+*.swo
+*~
